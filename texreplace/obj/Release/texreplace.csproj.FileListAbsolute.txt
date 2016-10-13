@@ -1,5 +1,0 @@
-D:\DarkOmenReborn\github\texreplace\texreplace\bin\Release\texreplace.exe.config
-D:\DarkOmenReborn\github\texreplace\texreplace\bin\Release\texreplace.exe
-D:\DarkOmenReborn\github\texreplace\texreplace\bin\Release\texreplace.pdb
-D:\DarkOmenReborn\github\texreplace\texreplace\obj\Release\texreplace.exe
-D:\DarkOmenReborn\github\texreplace\texreplace\obj\Release\texreplace.pdb

@@ -1,6 +1,0 @@
-D:\DarkOmenReborn\github\texreplace\texreplace\bin\Debug\texreplace.exe.config
-D:\DarkOmenReborn\github\texreplace\texreplace\bin\Debug\texreplace.exe
-D:\DarkOmenReborn\github\texreplace\texreplace\bin\Debug\texreplace.pdb
-D:\DarkOmenReborn\github\texreplace\texreplace\obj\Debug\texreplace.csprojResolveAssemblyReference.cache
-D:\DarkOmenReborn\github\texreplace\texreplace\obj\Debug\texreplace.exe
-D:\DarkOmenReborn\github\texreplace\texreplace\obj\Debug\texreplace.pdb

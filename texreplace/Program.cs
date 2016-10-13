@@ -11,6 +11,8 @@ namespace texreplace
 	{
 		static void Main(string[] args)
 		{
+			byte color = args.Length == 0 ? (byte)255 : byte.Parse(args[0]);
+
 			// Current path
 			string path = Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);
 
@@ -46,7 +48,7 @@ namespace texreplace
 				for (int i = 0; i < biClrUsed; ++i)
 				{
 					int colorOffset = colorTableStart + i * 4;
-					byte color = 255;
+					
 					bytes[colorOffset + 0] = color; // B
 					bytes[colorOffset + 1] = color; // G
 					bytes[colorOffset + 2] = color; // R
