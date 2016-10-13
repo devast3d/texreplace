@@ -1,3 +1,10 @@
 texreplace/bin/Debug/TEXTURE_/
 texreplace/bin/Debug/TEXTURE/_1WOOD2.BMP
 texreplace/bin/Debug/TEXTURE/
+texreplace/bin/Release/TEXTURE/
+texreplace/obj/
+texreplace/bin/Release/texreplace.exe.config
+texreplace/bin/Release/texreplace.pdb
+texreplace/bin/Release/texreplace.vshost.exe
+texreplace/bin/Release/texreplace.vshost.exe.config
+texreplace/bin/Release/texreplace.vshost.exe.manifest
